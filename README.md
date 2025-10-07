@@ -35,7 +35,7 @@ README.md     -> This file
 ```
 
 
-## Notes
+## Note that
 
 - The authentication is currently mocked using hardcoded values.
 - Database operations (Oracle or MySQL) are planned for future versions.
